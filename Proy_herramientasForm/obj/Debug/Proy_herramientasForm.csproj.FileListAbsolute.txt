@@ -1,0 +1,84 @@
+H:\Programacion II\3BIM\C# con grafico\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe.config
+H:\Programacion II\3BIM\C# con grafico\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe
+H:\Programacion II\3BIM\C# con grafico\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.pdb
+H:\Programacion II\3BIM\C# con grafico\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csprojResolveAssemblyReference.cache
+H:\Programacion II\3BIM\C# con grafico\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.MainForm.resources
+H:\Programacion II\3BIM\C# con grafico\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csproj.GenerateResource.Cache
+H:\Programacion II\3BIM\C# con grafico\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.exe
+H:\Programacion II\3BIM\C# con grafico\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.pdb
+J:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe.config
+J:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe
+J:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.pdb
+J:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csprojResolveAssemblyReference.cache
+J:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.MainForm.resources
+J:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csproj.GenerateResource.Cache
+J:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.exe
+J:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.pdb
+J:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.Ventana2.resources
+F:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe.config
+F:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe
+F:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.pdb
+F:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csprojResolveAssemblyReference.cache
+F:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.MainForm.resources
+F:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.Ventana2.resources
+F:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csproj.GenerateResource.Cache
+F:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.exe
+F:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.pdb
+J:\segundo año\tercer bimestre\programacion ll\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.ventana3.resources
+F:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe.config
+F:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe
+F:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.pdb
+F:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csprojResolveAssemblyReference.cache
+F:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.MainForm.resources
+F:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.Ventana2.resources
+F:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.ventana3.resources
+F:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csproj.GenerateResource.Cache
+F:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.exe
+F:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.pdb
+J:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csprojResolveAssemblyReference.cache
+J:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.MainForm.resources
+J:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.Ventana2.resources
+J:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.ventana3.resources
+J:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.Ventana4.resources
+J:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csproj.GenerateResource.Cache
+J:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.exe
+J:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe.config
+J:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe
+J:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.pdb
+J:\segundo año\tercer bimestre\programacion ll\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.pdb
+E:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe.config
+E:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe
+E:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.pdb
+E:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csprojResolveAssemblyReference.cache
+E:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.MainForm.resources
+E:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.Ventana2.resources
+E:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.ventana3.resources
+E:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.Ventana4.resources
+E:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csproj.GenerateResource.Cache
+E:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.exe
+E:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.pdb
+D:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe.config
+D:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe
+D:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.pdb
+D:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csprojResolveAssemblyReference.cache
+D:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.MainForm.resources
+D:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.Ventana2.resources
+D:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.ventana3.resources
+D:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.Ventana4.resources
+D:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csproj.GenerateResource.Cache
+D:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.exe
+D:\2do año\programacion II\graficas\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.pdb
+G:\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe.config
+G:\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.exe
+G:\Proy_herramientasForm\Proy_herramientasForm\bin\Debug\Proy_herramientasForm.pdb
+G:\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csprojResolveAssemblyReference.cache
+G:\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.MainForm.resources
+G:\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.Ventana2.resources
+G:\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.ventana3.resources
+G:\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.Ventana4.resources
+G:\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.ventana5.resources
+G:\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.ventana6.resources
+G:\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.csproj.GenerateResource.Cache
+G:\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.exe
+G:\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.pdb
+G:\Proy_herramientasForm\Proy_herramientasForm\obj\Debug\Proy_herramientasForm.ventana7.resources
